@@ -16,6 +16,13 @@ python -m venv venv
 pip install streamlit
 streamlit hello
 streamlit run .\Hello.py
+
+
+git
+git status
+git add .
+git commit -m "Your commit message"
+git push
 ```
 
 ## Learn more 
