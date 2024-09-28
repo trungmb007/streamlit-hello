@@ -11,8 +11,11 @@ This project highlights Streamlit's new multipage app functionality.
 The demo can be accessed via Streamlit Community Cloud [here](https://share.streamlit.io/streamlit/docs/main/python/api-examples-source/mpa-hello/Hello.py) or locally via the following steps:
 
 ```
+python -m venv venv
+.\venv\Scripts\activate
 pip install streamlit
 streamlit hello
+streamlit run .\Hello.py
 ```
 
 ## Learn more 
